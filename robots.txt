@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dingxihe.github.io/heiliaoguaqu/sitemap.xml
